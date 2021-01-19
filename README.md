@@ -17,12 +17,19 @@ The results where calculated running a million repetitions where each passed eac
 These where run in a laptop with a 4-core Intel i7-6500U CPU with a 2.5GHz clock, with 12 GB of RAM.
 
 Average Elapsed time (if statement):  6.6684908001871005e-06  With:  1000000  repetitions.
+
 Average Elapsed time (if statement no function calls):  5.051403005728389e-06  With:  1000000  repetitions.
+
 Average Elapsed time (constant list alternative):  4.3710357992858915e-06  With:  1000000  repetitions.
+
 Average Elapsed time (created list alternative):  6.263405300115664e-06  With:  1000000  repetitions.
+
 Average Elapsed time (constant tuple alternative):  4.2655419983630055e-06  With:  1000000  repetitions.
+
 Average Elapsed time (created tuple alternative):  6.305673699903309e-06  With:  1000000  repetitions.
+
 Average Elapsed time (constant dictionary alternative):  4.4364086998730274e-06  With:  1000000  repetitions.
+
 Average Elapsed time (created dictionary alternative):  9.155623301213382e-06  With:  1000000  repetitions.
 
 (For details on each, refer to the main.py file)
